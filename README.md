@@ -1,6 +1,6 @@
 # pandas-challenge
 
-This report analyzes user and purchase data of Heroes of Pymoli, a fictional free-to-play game. The report includes:
+This Jupyter Notebook utilizes Pandas to analyze user and purchase data of Heroes of Pymoli, a fictional free-to-play videogame. The analysis of purchase_data.csv includes:
 
 	- Player Count
 	- Purchasing Analysis (Total)
@@ -14,5 +14,5 @@ This report analyzes user and purchase data of Heroes of Pymoli, a fictional fre
 Observable trends
 
 - Players are predominantly male and make up 84.03% of the total player base.
-- Players who choose not to disclose their gender tend to spend more than Males and Females. The average purchase price by these players is $4.56.
-- Nearly half  of all players (44.79%) are between the ages of 20-24. The average purchase price by these players is $4.32.
+- With an average item purchase price of $4.56, players who choose not to disclose their gender tend to spend more than Males and Females.
+- Nearly half of all players (44.79%) are between the ages of 20-24. The average purchase price of items by these players is $4.32.
