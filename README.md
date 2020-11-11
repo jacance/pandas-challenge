@@ -11,7 +11,7 @@ This Jupyter Notebook utilizes Pandas to analyze user and purchase data of Heroe
 	- Most Popular Items
 	- Most Profitable Items
 
-Observable trends
+Observed trends:
 
 - Players are predominantly male and make up 84.03% of the total player base.
 - With an average item purchase price of $4.56, players who choose not to disclose their gender tend to spend more than Males and Females.
